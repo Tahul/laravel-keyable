@@ -3,8 +3,8 @@
     "description": "Add API keys to your Laravel models",
     "license": "MIT",
     "keywords": [
-    	"laravel", 
-    	"php", 
+    	"laravel",
+    	"php",
     	"api",
     	"rest",
     	"json",
@@ -21,7 +21,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-	    "php": "^7.0"
+	    "php": "^8.0"
     },
     "require-dev": {
 	},
